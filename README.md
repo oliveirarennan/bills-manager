@@ -15,7 +15,7 @@
 - execute o comando ``` php artisan key:generate``` para gerar as chaves da aplicação
 - execute o comando ``` php artisan jwt:secret``` para gerar o secret usando pelo token jwt
 - execute o comando ``` php artisan migrate --seed ``` esse comando irá construir as tabelas do banco de dados e inserir dados de exemplo
-- por fim execute o comando ``` php artisan serve ``` O servidor irá ser executado e API ficará disponível na url: https://localhost:8000/api
+- por fim execute o comando ``` php artisan serve ``` O servidor irá ser executado e API ficará disponível na url: http://localhost:8000/api
 - Caso o comando anterior apresente algum problema, verifique se as extensões do PHP necessárias para a execução do Laravel estão habilitadas
 
 ## Usuários para teste
