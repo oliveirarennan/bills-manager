@@ -19,7 +19,7 @@
 - Caso o comando anterior apresente algum problema, verifique se as extensões do PHP necessárias para a execução do Laravel estão habilitadas
 
 ## Usuários para teste
-- email:  jonhdoe@mail.com |  password: senha@123
+- email:  johndoe@mail.com |  password: senha@123
 - email: janedoe@mail.com |   password: senha@123
 
 ### Rotas da aplicação
