@@ -41,7 +41,7 @@ class BillController extends Controller
             [
                 'status' => 'bail|required|in:Atrasada,Paga,Aberta',
                 'due_date' => 'required|date',
-                'url' => 'required|url',
+                'url' => 'required|url|unique:bills,url',
             ]
         );
 
